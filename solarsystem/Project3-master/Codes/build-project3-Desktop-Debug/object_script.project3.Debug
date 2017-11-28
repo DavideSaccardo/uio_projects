@@ -1,0 +1,14 @@
+INPUT(
+./debug\euler.o
+./debug\initialcondition.o
+./debug\integrator.o
+./debug\newtoniangravity.o
+./debug\planet.o
+./debug\potential.o
+./debug\solarsystem.o
+./debug\ten_body_problem.o
+./debug\three_body_problem.o
+./debug\two_body_problem.o
+./debug\verlet.o
+./debug\main.o
+);

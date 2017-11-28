@@ -1,0 +1,14 @@
+INPUT(
+./release\euler.o
+./release\initialcondition.o
+./release\integrator.o
+./release\newtoniangravity.o
+./release\planet.o
+./release\potential.o
+./release\solarsystem.o
+./release\ten_body_problem.o
+./release\three_body_problem.o
+./release\two_body_problem.o
+./release\verlet.o
+./release\main.o
+);
