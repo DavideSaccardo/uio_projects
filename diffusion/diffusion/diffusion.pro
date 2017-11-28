@@ -4,7 +4,7 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp \
-    tridiag.cpp
+    pde_diffusion.cpp
 
 HEADERS += \
-    tridiag.h
+    pde_diffusion.h
